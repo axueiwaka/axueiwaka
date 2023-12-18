@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is axueikawa from Ukraine</h2>
+<h2 align="left">Hi 👋! My name is axueikawa and I'm a student, from Ukraine</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/89s4fd"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://imgur.com/A6LLVTX)"  />
 
 ###
 
